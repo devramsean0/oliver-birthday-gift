@@ -1,0 +1,193 @@
+{
+  "uuid": "e9175922f506809016fc7a36107fac91",
+  "path": "Offline/Oliver%20sign",
+  "name": "Oliver sign",
+  "content": "",
+  "created_at": "2022-07-22 21:51:53",
+  "updated_at": "2022-07-24 17:55:25",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "4eb0a6cac154166b5d6cf184388023fb",
+      "puuid": "e9175922f506809016fc7a36107fac91",
+      "title": "Letter O",
+      "filename": "Letter O.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1658674678,
+      "createTime": 1658670876,
+      "histories": [],
+      "created_at": "2022-07-24 14:54:36",
+      "updated_at": "2022-07-24 15:57:58"
+    },
+    {
+      "uuid": "9e9bac6c1b54c72cd5877ebdb8de47f6",
+      "puuid": "e9175922f506809016fc7a36107fac91",
+      "title": "Letter L",
+      "filename": "Letter L.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1658674635,
+      "createTime": 1658672895,
+      "histories": [],
+      "created_at": "2022-07-24 15:28:15",
+      "updated_at": "2022-07-24 15:57:15"
+    },
+    {
+      "uuid": "8137e5a103cf3f7f70db7487557c2ca4",
+      "puuid": "e9175922f506809016fc7a36107fac91",
+      "title": "Letter I",
+      "filename": "Letter I.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1658674586,
+      "createTime": 1658673223,
+      "histories": [],
+      "created_at": "2022-07-24 15:33:43",
+      "updated_at": "2022-07-24 15:56:26"
+    },
+    {
+      "uuid": "200ff097588b945185ebf8c4d7c09750",
+      "puuid": "e9175922f506809016fc7a36107fac91",
+      "title": "Letter V",
+      "filename": "Letter V.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1658674535,
+      "createTime": 1658673270,
+      "histories": [],
+      "created_at": "2022-07-24 15:34:30",
+      "updated_at": "2022-07-24 15:55:35"
+    },
+    {
+      "uuid": "093e9fb35c195599bac41ec9ecaa0e0e",
+      "puuid": "e9175922f506809016fc7a36107fac91",
+      "title": "Letter E",
+      "filename": "Letter E.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1658674545,
+      "createTime": 1658673798,
+      "histories": [],
+      "created_at": "2022-07-24 15:43:18",
+      "updated_at": "2022-07-24 15:55:45"
+    },
+    {
+      "uuid": "af7f7087372071744038588692c6ab88",
+      "puuid": "e9175922f506809016fc7a36107fac91",
+      "title": "Letter R",
+      "filename": "Letter R.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1658675110,
+      "createTime": 1658675016,
+      "histories": [],
+      "created_at": "2022-07-24 16:03:36",
+      "updated_at": "2022-07-24 16:05:10"
+    },
+    {
+      "uuid": "5237e76a303bf7f66ab0a6da67617f43",
+      "puuid": "e9175922f506809016fc7a36107fac91",
+      "title": "Control",
+      "filename": "Control.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "724232c6d2d24ce692639e5991d3b8f9": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1658681701,
+      "createTime": 1658680412,
+      "histories": [],
+      "created_at": "2022-07-24 17:33:32",
+      "updated_at": "2022-07-24 17:55:01"
+    }
+  ],
+  "sort": [],
+  "title": "Oliver sign",
+  "foldername": "Oliver sign",
+  "schfilename": "Oliver sign.json",
+  "schfilemtime": 1658670859154.0269
+}
